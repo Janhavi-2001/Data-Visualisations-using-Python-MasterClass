@@ -34,7 +34,7 @@ The datasets used, have been imported from Kaggle.com and their respective links
 *_For more information, visit:_* ( https://www.w3schools.com/python/pandas/pandas_intro.asp )
 
 #### 3. Matplotlib:
-*_ Matplotlib is an open source tool, used to create primitive visualisation plots. Certain kinds of plots such as histograms,_*
+*_Matplotlib is an open source tool, used to create primitive visualisation plots. Certain kinds of plots such as histograms,_*
 *_bar graphs, pie charts, line graphs and more... can be created via this library_*
 
 *_For more information, visit:_* ( https://www.w3schools.com/python/matplotlib_intro.asp )
@@ -45,12 +45,12 @@ The datasets used, have been imported from Kaggle.com and their respective links
 *_or to plot frequency distribution. Categorical plots plot frequency distribution with respect to particular categories, whose_*
 *_respective data is to be analysed._*
 
-*_For more information, visit: ( https://www.w3schools.com/python/numpy/numpy_random_seaborn.asp )
+*_For more information, visit:_* ( https://www.w3schools.com/python/numpy/numpy_random_seaborn.asp )
 
 ##### 5. Plotly: 
 *_Plotly is a JavaScript based visualisation library, which contains 3D graphics' charts. Dynamic plots such as horizontal bar plots,_*
 *_pie plots, line plots, scatter plots etc. can be created using this library._*
 
-*_For more information, visit: ( https://www.w3schools.com/ai/ai_plotly.asp )
+*_For more information, visit:_* ( https://www.w3schools.com/ai/ai_plotly.asp )
 
 
