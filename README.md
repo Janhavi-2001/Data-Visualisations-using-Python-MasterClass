@@ -1,6 +1,6 @@
 # Data Visualisations using Python MasterClass 
 
-This repository contains some data visualisations which I did using Python libraries, such as NumPy, Pandas, Matplotlib, Seaborn and Plotly.
+This repository contains some data visualisations done using Python libraries, such as NumPy, Pandas, Matplotlib, Seaborn and Plotly.
 The datasets used, have been imported from Kaggle.com and their respective links have been provided below:
 
 **_Rainfall Analysis of India Dataset_**
