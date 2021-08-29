@@ -6,8 +6,7 @@ The datasets used, have been imported from Kaggle.com and their respective links
 **_Rainfall Analysis of India Dataset_**
   ( https://www.kaggle.com/rajanand/rainfall-in-india?select=district+wise+rainfall+normal.csv )
   
-**nbvcxz
- 1_Student Test Score Analysis Dataset_**
+**_Student Test Score Analysis Dataset_**
   ( https://www.kaggle.com/spscientist/students-performance-in-exams?select=StudentsPerformance.csv )
   
 **_USA Voters 2012 Dataset_**
