@@ -1,6 +1,6 @@
-# Data Visualisations using Python MasterClass 
+# Data Visualization using Python MasterClass 
 
-This repository contains some data visualisations done using Python libraries, such as NumPy, Pandas, Matplotlib, Seaborn and Plotly.
+This repository contains some data visualizations done using Python libraries, such as NumPy, Pandas, Matplotlib, Seaborn and Plotly.
 The datasets used, have been imported from Kaggle.com and their respective links have been provided below:
 
 **_Rainfall Analysis of India Dataset_**
@@ -33,7 +33,7 @@ The datasets used, have been imported from Kaggle.com and their respective links
 *_For more information, visit:_* ( https://www.w3schools.com/python/pandas/pandas_intro.asp )
 
 #### 3. Matplotlib:
-*_Matplotlib is an open source tool, used to create primitive visualisation plots. Certain kinds of plots such as histograms,_*
+*_Matplotlib is an open source tool, used to create primitive visualization plots. Certain kinds of plots such as histograms,_*
 *_bar graphs, pie charts, line graphs and more... can be created via this library_*
 
 *_For more information, visit:_* ( https://www.w3schools.com/python/matplotlib_intro.asp )
@@ -47,7 +47,7 @@ The datasets used, have been imported from Kaggle.com and their respective links
 *_For more information, visit:_* ( https://www.w3schools.com/python/numpy/numpy_random_seaborn.asp )
 
 ##### 5. Plotly: 
-*_Plotly is a JavaScript based visualisation library, which contains 3D graphics' charts. Dynamic plots such as horizontal bar plots,_*
+*_Plotly is a JavaScript-based visualization library, which contains 3D graphics' charts. Dynamic plots such as horizontal bar plots,_*
 *_pie plots, line plots, scatter plots etc. can be created using this library._*
 
 *_For more information, visit:_* ( https://www.w3schools.com/ai/ai_plotly.asp )
