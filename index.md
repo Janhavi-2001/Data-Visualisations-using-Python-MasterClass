@@ -48,7 +48,7 @@ respective data is to be analyzed.
 
 [Learn More]( https://www.w3schools.com/python/numpy/numpy_random_seaborn.asp )
 
-##### 5. Plotly: 
+#### 5. Plotly: 
 Plotly is a JavaScript-based visualization library, which contains 3D graphics' charts. Dynamic plots such as horizontal bar plots,
 pie plots, line plots, scatter plots etc. can be created using this library.
 
