@@ -13,7 +13,7 @@ So I decided that I wanted to learn about data visualization in Python, and so h
 
 2. [**Student Test Score Analysis**](https://janhavi-2001.github.io/Data-Visualizations-using-Python-MasterClass/Student%20Education%20Analysis/index.html)
 
-3. [**USA Voters 2012**](https://janhavi-2001.github.io/Data-Visualizations-using-Python-MasterClass/USA%20Voters%202012/index.html)
+3. [**USA Voters 2012**](https://janhavi-2001.github.io/Data-Visualizations-using-Python/USA%20Voters%202012/index.html)
 
 4. [**World Stats**](https://janhavi-2001.github.io/Data-Visualizations-using-Python-MasterClass/World%20Stats/index.html)
 <br />
