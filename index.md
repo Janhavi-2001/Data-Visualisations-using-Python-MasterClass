@@ -9,13 +9,13 @@ So I decided that I wanted to learn about data visualization in Python, and so h
 
 ### Here are the links to my visualizations:
 
-1. [**Rainfall Analysis of India**](https://janhavi-2001.github.io/Data-Visualizations-using-Python-MasterClass/Rainfall%20Analysis%20of%20India/index.html)
+1. [**Rainfall Analysis of India**](Data-Visualizations-using-Python-MasterClass/Rainfall Analysis of India/index.html)
 
-2. [**Student Test Score Analysis**](https://janhavi-2001.github.io/Data-Visualizations-using-Python-MasterClass/Student%20Education%20Analysis/index.html)
+2. [**Student Test Score Analysis**](Data-Visualizations-using-Python-MasterClass/Student Education Analysis/index.html)
 
-3. [**USA Voters 2012**](https://janhavi-2001.github.io/Data-Visualizations-using-Python/USA%20Voters%202012/index.html)
+3. [**USA Voters 2012**](Data-Visualizations-using-Python/USA Voters 2012/index.html)
 
-4. [**World Stats**](https://janhavi-2001.github.io/Data-Visualizations-using-Python-MasterClass/World%20Stats/index.html)
+4. [**World Stats**](Data-Visualizations-using-Python-MasterClass/World Stats/index.html)
 <br />
 <br />
 
