@@ -3,8 +3,8 @@
 This repository contains some data visualizations done using Python libraries, such as NumPy, Pandas, Matplotlib, Seaborn and Plotly.
 
 #### [Click Here](https://janhavi-2001.github.io/Data-Visualizations-using-Python/) to head over to the project page!
-/
-
+\
+\
 The datasets used, have been imported from Kaggle.com and their respective links have been provided below:
 
 **_Rainfall Analysis of India Dataset_**
@@ -19,8 +19,8 @@ The datasets used, have been imported from Kaggle.com and their respective links
 **_World Stats Dataset_**
   ( https://www.kaggle.com/kisoibo/countries-databasesqlite )
   
-  
-  
+\
+\ 
 ### A brief introduction about the libraries used:
 
 #### 1. NumPy:
@@ -56,4 +56,6 @@ The datasets used, have been imported from Kaggle.com and their respective links
 
 *_For more information, visit:_* ( https://www.w3schools.com/ai/ai_plotly.asp )
 
-
+\
+\
+**Link to the course**: https://www.udemy.com/course/complete-data-visualization-in-python/
