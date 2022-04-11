@@ -1,4 +1,5 @@
-# Data Visualizations using Python MasterClass 
+# Data Visualizations using Python 
+
 
 This repository contains some data visualizations which I did using Python libraries, such as NumPy, Pandas, Matplotlib, Seaborn and Plotly.
 The datasets used, have been imported from Kaggle.com and their respective links have been provided below:
