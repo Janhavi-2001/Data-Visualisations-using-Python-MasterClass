@@ -18,7 +18,8 @@ The datasets used, have been imported from Kaggle.com and their respective links
   
 **_World Stats Dataset_**
   ( https://www.kaggle.com/kisoibo/countries-databasesqlite )
-  
+
+
 \
 \ 
 ### A brief introduction about the libraries used:
@@ -50,7 +51,7 @@ The datasets used, have been imported from Kaggle.com and their respective links
 
 *_For more information, visit:_* ( https://www.w3schools.com/python/numpy/numpy_random_seaborn.asp )
 
-##### 5. Plotly: 
+#### 5. Plotly: 
 *_Plotly is a JavaScript-based visualization library, which contains 3D graphics' charts. Dynamic plots such as horizontal bar plots,_*
 *_pie plots, line plots, scatter plots etc. can be created using this library._*
 
