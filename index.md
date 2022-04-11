@@ -1,4 +1,4 @@
-## Welcome to my Data Visualization Projects Page
+## Data Visualization Projects Page
 
 So I decided that I wanted to learn about data visualization in Python, and so here are a few visualizations that I created as a personal project. Basically, data visualization involves displaying data in the form of graphs and charts, and is an incredibly important part of becoming a data analyst. There are softwares such as Microsoft Power BI, Tableau and even Python which are popular visualization tools. Specifically speaking about Python, it offers many libraries which allow you to visualize data, such as Matplotlib, Seaborn, Plotly and Plotly Express. 
 
