@@ -7,16 +7,16 @@ This repository contains some data visualizations done using Python libraries, s
 \
 The datasets used, have been imported from Kaggle.com and their respective links have been provided below:
 
-[**_Rainfall Analysis of India Dataset_**]
+1. [Rainfall Analysis of India Dataset]
 (https://www.kaggle.com/rajanand/rainfall-in-india?select=district+wise+rainfall+normal.csv)
   
-[**_Student Test Score Analysis Dataset_**]
+2. [Student Test Score Analysis Dataset]
 (https://www.kaggle.com/spscientist/students-performance-in-exams?select=StudentsPerformance.csv)
   
-[**_USA Voters 2012 Dataset_**]
-imported from the resources from (https://www.udemy.com/course/data-analysis-with-excel-pivot-tables/ )
+3. [USA Voters 2012 Dataset]
+(https://www.udemy.com/course/data-analysis-with-excel-pivot-tables/ )
   
-[**_World Stats Dataset_**]
+4. [World Stats Dataset]
 (https://www.kaggle.com/kisoibo/countries-databasesqlite)
 
 
