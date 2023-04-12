@@ -7,17 +7,17 @@ This repository contains some data visualizations done using Python libraries, s
 \
 The datasets used, have been imported from Kaggle.com and their respective links have been provided below:
 
-1. [Rainfall Analysis of India Dataset]
-(https://www.kaggle.com/rajanand/rainfall-in-india?select=district+wise+rainfall+normal.csv)
+1. [Rainfall Analysis of India Dataset](https://www.kaggle.com/rajanand/rainfall-in-india?select=district+wise+rainfall+normal.csv)
+
   
-2. [Student Test Score Analysis Dataset]
-(https://www.kaggle.com/spscientist/students-performance-in-exams?select=StudentsPerformance.csv)
+2. [Student Test Score Analysis Dataset](https://www.kaggle.com/spscientist/students-performance-in-exams?select=StudentsPerformance.csv)
+
   
-3. [USA Voters 2012 Dataset]
-(https://www.udemy.com/course/data-analysis-with-excel-pivot-tables/ )
+3. [USA Voters 2012 Dataset](https://www.udemy.com/course/data-analysis-with-excel-pivot-tables/)
+
   
-4. [World Stats Dataset]
-(https://www.kaggle.com/kisoibo/countries-databasesqlite)
+4. [World Stats Dataset](https://www.kaggle.com/kisoibo/countries-databasesqlite)
+
 
 
 \
@@ -59,4 +59,4 @@ The datasets used, have been imported from Kaggle.com and their respective links
 
 \
 \
-**Link to the course**: [click here!](https://www.udemy.com/course/complete-data-visualization-in-python/)
+
