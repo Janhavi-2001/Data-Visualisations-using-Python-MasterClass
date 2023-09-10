@@ -3,7 +3,7 @@
 
 This repository contains some data visualizations done using Python libraries, such as NumPy, Pandas, Matplotlib, Seaborn, and Plotly.
 
-#### [Click Here](https://janhavi-2001.github.io/Data-Visualizations-using-Python/) to head over to the project page!
+#### [Click Here](https://janhavi-2001.github.io/Data-Visualization-using-Python/) to head over to the project page!
 \
 \
 The datasets used, have been imported from Kaggle.com and their respective links have been provided below:
