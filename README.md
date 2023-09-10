@@ -1,4 +1,4 @@
-# Data Visualizations using Python 
+# Data Visualization using Python 
 
 
 This repository contains some data visualizations done using Python libraries, such as NumPy, Pandas, Matplotlib, Seaborn, and Plotly.
